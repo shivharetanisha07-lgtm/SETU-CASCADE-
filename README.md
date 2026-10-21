@@ -104,3 +104,4 @@ The production output is written to `frontend/dist/`.
 ## License
 
 No license has been selected yet. Add a `LICENSE` file before distributing or accepting external contributions.
+## Link to our web prototype : https://seed-sable-00432774.figma.site
